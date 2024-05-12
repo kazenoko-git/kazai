@@ -4,55 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffab54e5-566e-4d3b-bac1-1b209647c2a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kazai.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ai.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/console.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/instances.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/testing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interactor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/data/accounts.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/data/token.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP1002.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP10886.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP20003.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP23108.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP25269.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP26994.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP2722.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP27226.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP28256.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP30583.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP32250.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP34671.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP37052.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP37344.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP39995.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP40355.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP41811.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP4313.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP43970.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP4412.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP47807.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP48487.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP49371.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP49602.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP49867.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP49885.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP51697.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP52490.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP63126.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP63365.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP6383.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tts/TEMP8713.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usage.py" afterDir="false" />
+    <list default="true" id="ffab54e5-566e-4d3b-bac1-1b209647c2a3" name="Changes" comment="Update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +29,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/kazenoko/pycharm/kazai"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -99,6 +57,19 @@
       <option name="presentableId" value="Default" />
       <updated>1715537767167</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update">
+      <option name="closed" value="true" />
+      <created>1715539752449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715539752449</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>
