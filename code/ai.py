@@ -1,6 +1,21 @@
-from PIL import Image
-from pydub import AudioSegment
-import instances, playsound, pygame, pytesseract, torch, random
+try:
+    from PIL import Image
+    from pydub import AudioSegment
+    import instances, playsound, pygame, pytesseract, torch, random
+except:
+    instances.libinstall("TTS")
+    instances.libinstall("torch")
+    instances.libinstall("pydub")
+    instances.libinstall("pygame")
+    instances.libinstall("pillow")
+    instances.libinstall("playsound")
+    instances.libinstall("pytesseract")
+    instances.libinstall("torch")
+    instances.libinstall("SpeechRecognition")
+    instances.libinstall("g4f")
+    instances.libinstall("customtkinter")
+    instances.libinstall("ffmpeg")
+    instances.libinstall("discord")
 
 class oldTTS():
     def __init__(self):
