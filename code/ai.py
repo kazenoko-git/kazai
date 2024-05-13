@@ -1,7 +1,8 @@
+import instances, random
 try:
     from PIL import Image
     from pydub import AudioSegment
-    import instances, playsound, pygame, pytesseract, torch, random
+    import playsound, pygame, pytesseract, torch
 except:
     instances.libinstall("TTS")
     instances.libinstall("torch")
